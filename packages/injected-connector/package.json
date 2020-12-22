@@ -1,5 +1,5 @@
 {
-  "name": "@alayanetwork/injected-connector",
+  "name": "@alayanetwork/web3-react-injected-connector",
   "publishConfig": {
     "access": "public"
   },
